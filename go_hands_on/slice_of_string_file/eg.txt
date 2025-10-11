@@ -1,0 +1,3 @@
+Go is awesome
+Interfaces are powerful
+File handling is easy
