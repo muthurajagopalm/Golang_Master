@@ -15,4 +15,5 @@ func main() {
 	for charac, count := range charCount {
 		fmt.Printf("%q: %d\n", charac, count)
 	}
+
 }

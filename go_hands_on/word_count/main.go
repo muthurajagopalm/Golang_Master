@@ -16,6 +16,6 @@ func main() {
 	}
 
 	for word, count := range wordCount {
-		fmt.Printf("%s: %d\n", word, count)
+		fmt.Printf("%s : %d\n", word, count)
 	}
 }
